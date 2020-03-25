@@ -8,7 +8,7 @@ This package does not require further installation.
 
 2. Motivation
 
-The intention is to incorporate fundamental data science principles in the excercise and publish the findings in Github for execution, as well as in Medium for further discuession.
+The intention is to incorporate fundamental data science principles in the excercise and publish the findings in Github, as well as in Medium for further discuession.
 
 Story in Medium: https://medium.com/@wwesley294/can-we-guess-how-much-your-boston-airbnb-is-going-to-make-a0cffa5c8591
 
