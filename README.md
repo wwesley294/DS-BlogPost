@@ -29,4 +29,4 @@ The scripts are developed for execution in Jupyer Notebook.
 
 5. Acknowledgement
 
-Special thanks for Udacity for laying out the steps and for Airbnb for providing the data.
+Special thanks to Udacity for laying out the steps and for Airbnb for providing the data.
